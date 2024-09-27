@@ -31,6 +31,13 @@ plt.tight_layout()
 # Streamlit을 통해 차트 표시
 st.pyplot(fig)
 
+#st.bar_chart(
+#    df_time,
+#    x='request_time',
+#    y='count',
+#    #color=["#FF0000", "#0000FF"],  # Optional
+#)
+
 
 st.header('')
 st.header('')
