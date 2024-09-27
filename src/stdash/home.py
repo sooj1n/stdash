@@ -15,5 +15,5 @@ def load_data():
 
 
 # main()
-img = Image.open('img/home.jpg')
-st.image(img,width=1000)
+#img = Image.open('img/home.jpg')
+#st.image(img,width=1000)
