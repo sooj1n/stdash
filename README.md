@@ -64,3 +64,7 @@ df = pd.DataFrame(data)
 - [x] file upload
 - [ ] hotdog 적용
 - https://stackoverflow.com/questions/76448350/post-request-with-parameter-as-a-streamlit-file-uploader-object-for-a-pdf-throws
+
+### 참고 링크
+- https://soojin1.tistory.com/24
+  
